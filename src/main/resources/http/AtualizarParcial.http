@@ -1,0 +1,9 @@
+PATCH http://localhost:8080/api/produtos/atualizarParcial/18
+Content-Type: application/json
+
+{
+  "nome": null,
+  "descricao": "Carne adequada para churrasco atualizado",
+  "preco": 60,
+  "quantidadeEstoque": -50
+}

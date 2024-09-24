@@ -1,0 +1,1 @@
+GET http://localhost:8080/api/produtos/buscarPorNomeEPreco?nome=%25Peito%25&preco=50
